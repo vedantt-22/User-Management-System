@@ -49,7 +49,7 @@ import {
   SelectTrigger, 
   SelectValue 
 } from '@/components/ui/select';
-import { toast } from '@/components/ui/sonner';
+import { toast } from '@/lib/toast';
 import { 
   MoreHorizontal, 
   UserPlus, 
